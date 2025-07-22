@@ -1,0 +1,23 @@
+@import "tailwindcss";
+/* ...add others similarly */
+.bg-fog{
+    background-image: url('../public/assets/fog.jpg');
+}
+.bg-default{
+    background-image: url('/assets/default.jpg');
+}
+.bg-rain{
+    background-image: url('../public/assets/rain.jpg');
+}
+.bg-snow{
+    background-image: url('../public/assets/snow.jpg');
+}
+.bg-thunder{
+    background-image: url('../public/assets/thunder.jpg');
+}
+.bg-clear{
+    background-image: url('../public/assets/clear.jpg');
+}
+.bg-clouds{
+    background-image: url('../public/assets/clouds.jpg');
+}
